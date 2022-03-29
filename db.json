@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "desc": "My Birthday Date",
+      "date": "15.08.1987",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "desc": "My Wife Birthday Date",
+      "date": "13.02.1978",
+      "reminder": true
+    },
+    {
+      "desc": "Learn React",
+      "date": "03/29/2022",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
